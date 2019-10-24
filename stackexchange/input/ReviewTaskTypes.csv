@@ -1,0 +1,10 @@
+Id,Name,Description
+"1","Suggested Edit","Approve, reject, or improve edits suggested by users"
+"2","Close Votes","Review questions with close votes"
+"3","Low Quality Posts","Review automatically detected low-quality posts"
+"4","First Post","Review first posts by new users"
+"5","Late Answer","Review late answers by new users"
+"6","Reopen Vote","Review questions with reopen votes"
+"7","Community Evaluation","Review the quality of questions randomly selected from the site"
+"10","Triage","Help identify the quality of questions"
+"11","Helper","Help improve questions by editing"

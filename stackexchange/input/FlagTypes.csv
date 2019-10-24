@@ -1,0 +1,4 @@
+Id,Name,Description
+"13","Question Recommend Close","User without close privileges suggests a question should be closed"
+"14","Question Close","User with close privileges is voting to close a question"
+"15","Question Reopen","User with close privileges is voting to reopen a question"

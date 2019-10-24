@@ -1,0 +1,4 @@
+Id,Name,Description
+"1","Active","The review task is still in the queue."
+"2","Completed","The review task was completed, so it is no longer in the queue."
+"3","Invalidated","The task was dequeued naturally. For example, a post might be edited to become high-quality, or close votes might expire, all completely separately from the review dashboard."
